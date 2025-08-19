@@ -1,4 +1,4 @@
-package com.OLXS.Service;
+package com.OLX.Service;
 
 import java.util.List;
 import java.util.Optional;

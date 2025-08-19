@@ -1,4 +1,4 @@
-package com.OLXS.Service;
+package com.OLX.Service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
@@ -6,7 +6,7 @@ import org.springframework.stereotype.Service;
 import com.OLX.Exception.AlreadyExist;
 import com.OLX.Exception.Loginfaild;
 import com.OLX.Model.User;
-import com.OLXS.Repositary.UserRepository;
+import com.OLX.Repositary.UserRepository;
 
 @Service("userserv")
 public class UserServiceImpl implements UserService {

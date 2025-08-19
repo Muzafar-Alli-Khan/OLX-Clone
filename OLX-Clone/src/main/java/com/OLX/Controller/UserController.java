@@ -6,7 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 
 import com.OLX.Model.User;
-import com.OLXS.Service.UserService;
+import com.OLX.Service.UserService;
 
 @Controller("UserControl")
 public class UserController {

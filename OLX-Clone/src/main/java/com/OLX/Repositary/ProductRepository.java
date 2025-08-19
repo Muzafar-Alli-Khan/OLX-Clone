@@ -1,4 +1,4 @@
-package com.OLXS.Repositary;
+package com.OLX.Repositary;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 

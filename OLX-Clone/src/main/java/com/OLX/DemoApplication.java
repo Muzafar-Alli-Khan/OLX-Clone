@@ -8,7 +8,8 @@ import com.OLX.Controller.UserController;
 @SpringBootApplication
 public class DemoApplication {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) 
+	{
 
 		try (ConfigurableApplicationContext ctx = SpringApplication.run(DemoApplication.class, args)) 
 		{
